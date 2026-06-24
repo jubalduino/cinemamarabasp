@@ -1,1 +1,1 @@
-Prototipo teste do site do Cinema marabá
+Prototipo teste do site sobre o  Cinema marabá
